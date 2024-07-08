@@ -162,4 +162,25 @@
   margin-bottom: 17.81px;
   }
 /* service section ends */
+/* offer section starts */
+.offer-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 123.77px;
+  margin: 80px auto;
+  height: 414px;
+}
+
+.offer-container .offer-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.offer-container img{
+  width: 211.61px;
+}
+/* offer section ends */
 /* body ends */
