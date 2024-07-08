@@ -230,3 +230,45 @@
 }
 /* newsletter section ends */
 /* body ends */
+/* footer section starts */
+footer{
+  background: rgb(17, 16, 16);
+  height: 300px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+footer h2{
+  font-size: 26.4px;
+  font-weight: 800;
+  line-height: 31.68px;
+  text-align: center;
+  margin-bottom: 15.84px;
+}
+
+footer h2 span{
+  color: #E55473;
+}
+
+footer p{
+  font-size: 11.88px;
+  font-weight: 400;
+  line-height: 19.8px;
+  text-align: center;
+  margin-bottom: 21.12px;
+  max-width: 395px;
+}
+
+footer .rights{
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 10.56px;
+  font-weight: 400;
+  line-height: 12.54px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+/* footer section ends */
