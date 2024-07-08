@@ -68,4 +68,25 @@
 }
 /* global styles ends */
 /* body starts */
+/* header styles starts */
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-height: 566px;
+}
+
+.header .header-text{
+  max-width: 471px;
+}
+.header .header-text p{
+  text-align: left;
+  max-width: 420px;
+}
+
+.header .featured-image img{
+  max-width: 423px;
+  padding-top: 34px;
+}
+/* header styles ends */
 /* body ends */
