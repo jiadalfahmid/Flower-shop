@@ -134,4 +134,32 @@
   text-decoration-line: underline;
 }
 /* featured section ends */
+/* service section starts */
+.service .service-container{
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  height: 213px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 66px;
+}
+
+.service-container .service-parts{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgba(39, 39, 39, 0.8);
+  font-size: 15.84px;
+  font-weight: 600;
+  line-height: 23.1px;
+}
+.service-parts img{
+  width: 58.54px;
+  height: 58.58px;
+  margin-bottom: 17.81px;
+  }
+/* service section ends */
 /* body ends */
